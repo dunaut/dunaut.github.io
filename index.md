@@ -5,6 +5,6 @@
   </head>
   <body>
     <h2>Hello :)</h2>
-    <input id="input">
+    <input id="input" autocomplete="off">
   </body>
 </html>
