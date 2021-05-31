@@ -1,6 +1,10 @@
 <html>
-<body>
-<h2>Hello :)</h2>
-<input>
-</body>
+  <head>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h2>Hello :)</h2>
+    <input id="input">
+  </body>
 </html>
